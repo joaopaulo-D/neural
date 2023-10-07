@@ -1,4 +1,4 @@
-include("src/Net.jl")
+include("src/Adaline.jl")
 
 aprendizado = 0.0025
 precisao = 0.000001
